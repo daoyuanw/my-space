@@ -2,7 +2,7 @@
 title: Home
 ---
 
-{{<figure src="https://smms.app/image/GVYKt1v3HwI4uel" title="Me and Peterson had lunch at an India Restaurant<br>(Peterson是交大的外教，我曾在Oral English课上给他做TA)" width="450">}}
+{{<figure src="https://s2.loli.net/2024/06/25/GVYKt1v3HwI4uel.jpg" title="Me and Peterson had lunch at an India Restaurant(第一次吃印度菜)" width="450">}}
 
 I graduated with a Master's degree in Journalism and Communication from [the Journalism and New Media School of Xi'an Jiaotong University](https://xmtxy.xjtu.edu.cn/) in 2021, advised by Professor [Hongbang Zhang](https://xmtxy.xjtu.edu.cn/info/1223/8549.htm) . From 2021 to 2023, I worked in a construction company. Now, I'm teaching myself computer science and applying for Ph.d or the second master's degree.
 
