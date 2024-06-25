@@ -2,6 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/cn/2024/06/25/2024-06-26-%E4%BF%A1%E6%81%AF%E7%9A%84%E6%96%AD%E8%88%8D%E7%A6%BB/</loc>
+    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/posts/</loc>
+    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/</loc>
+    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/2024/06/25/2024-06-25-highlight-of-calculus/</loc>
     <lastmod>2024-06-25T11:32:25+08:00</lastmod>
   </url><url>
@@ -9,9 +21,6 @@
     <lastmod>2024-06-25T11:32:25+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2024-06-25T11:32:25+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-06-25T11:32:25+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/article/</loc>
@@ -27,12 +36,6 @@
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/categories/test/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/posts/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/</loc>
     <lastmod>2021-01-07T13:42:27-05:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/english/</loc>
