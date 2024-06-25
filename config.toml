@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://my-space-daoyuan.vercel.app/"
 languageCode = "en-us"
 title = "Hugo-HT"
 theme = "hugo-ht"
@@ -41,7 +41,7 @@ posts = "/posts/:year/:month/:day/:slug/"
     weight = 3
 
 [params]
-    description = "Peronal website of Your Name"
+    description = "Peronal website of Daoyuan Wu"
     homeText = "You just need a Hugo blog from scratch"
     # Please make sure `blogDirNmae` matches the name used in `menu` above:
     blogDirName = "posts"
@@ -51,13 +51,13 @@ posts = "/posts/:year/:month/:day/:slug/"
     MathJaxVersion = "2.7.5"
     favicon = "media/hugo-logo.png"
     # Edit by yourself:
-    GithubEdit = "https://github.com/USERNAME/REPONAME/edit/main/content/"
+    GithubEdit = "https://github.com/dawnlim1/my-space/edit/main/content/"
     copyright = "&copy;"
     copyrightYear = "2020-2021"
     # Edit by yourself:
-    GithubRepo = "https://github.com/USERNAME/REPONAME"
+    GithubRepo = "https://github.com/dawnlim1/my-space"
     # Edit by yourself:
-    ContentSource = "https://raw.githubusercontent.com/USERNAME/REPONAME/main/content/" 
+    ContentSource = "https://raw.githubusercontent.com/dawnlim1/my-space/main/content/" 
 
 [params.logo]
   # Change the logo picture as your prefer:
@@ -70,7 +70,7 @@ posts = "/posts/:year/:month/:day/:slug/"
 
     [params.lang.author]
       en = "Your Name"
-      cn = "你的名字"
+      cn = "武道源"
 
     [params.lang.madeWith]
       en = "Made with"

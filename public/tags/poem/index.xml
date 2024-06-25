@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poem on Hugo-HT</title>
+    <link>http://localhost:1313/tags/poem/</link>
+    <description>Recent content in Poem on Hugo-HT</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 01 Jan 1915 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/poem/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>The Road Not Taken</title>
+      <link>http://localhost:1313/en/1915/01/01/road-not-taken/</link>
+      <pubDate>Fri, 01 Jan 1915 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/en/1915/01/01/road-not-taken/</guid>
+      <description>Two roads diverged in a yellow wood,&#xA;And sorry I could not travel both&#xA;And be one traveler, long I stood&#xA;And looked down one as far as I could&#xA;To where it bent in the undergrowth;&#xA;Then took the other, as just as fair,&#xA;And having perhaps the better claim,&#xA;Because it was grassy and wanted wear;&#xA;Though as for that the passing there&#xA;Had worn them really about the same,</description>
+    </item>
+  </channel>
+</rss>
