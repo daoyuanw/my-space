@@ -11,4 +11,4 @@ toc: false
 <div align=center>
 ![Artificial Intelligence](https://github.com/luweiagi/machine-learning-notes/raw/master/docs/perface/machine-learning-perface/pic/AI_chasm.jpg)
 
-Machine Learning is the core of the artificial interlligence.
+Machine Learning is the subfield of the artificial interlligence.
