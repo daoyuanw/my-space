@@ -2,64 +2,41 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/cn/2024/06/25/2024-06-26-%E4%BF%A1%E6%81%AF%E7%9A%84%E6%96%AD%E8%88%8D%E7%A6%BB/</loc>
-    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/posts/</loc>
-    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/</loc>
-    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/2024/06/25/2024-06-25-highlight-of-calculus/</loc>
-    <lastmod>2024-06-25T11:32:25+08:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-06-25T11:32:25+08:00</lastmod>
+    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
+    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/2024/07/05/learning-from-markdown/</loc>
+    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/2024/07/05/machine-learning/</loc>
+    <lastmod>2024-07-05T15:44:20+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/2024/06/27/computational-social-science/</loc>
+    <lastmod>2024-06-27T14:15:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/posts/</loc>
+    <lastmod>2024-06-27T14:15:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/</loc>
+    <lastmod>2024-06-27T14:15:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/cn/2024/06/25/%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E4%B8%8E%E6%96%AD%E8%88%8D%E7%A6%BB/</loc>
+    <lastmod>2024-06-25T11:47:18+08:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/en/2024/06/25/highlight-of-calculus/</loc>
     <lastmod>2024-06-25T11:32:25+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/article/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/categories/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/2021/01/07/first-post-cn/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/test/</loc>
-    <lastmod>2021-01-07T13:42:27-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/english/</loc>
-    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/2021/01/07/second-post/</loc>
-    <lastmod>2021-01-07T13:37:57-05:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/categories/classical/</loc>
-    <lastmod>1925-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/prose/</loc>
-    <lastmod>1925-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/cn/1925/10/01/beiying/</loc>
-    <lastmod>1925-10-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/poem/</loc>
-    <lastmod>1915-01-01T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/en/1915/01/01/road-not-taken/</loc>
-    <lastmod>1915-01-01T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/about/</loc>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
   </url><url>
     <loc>http://localhost:1313/cn/about/</loc>
   </url>

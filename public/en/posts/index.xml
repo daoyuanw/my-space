@@ -6,28 +6,28 @@
     <description>Recent content in English Posts on Hugo-HT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 25 Jun 2024 11:32:25 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 05 Jul 2024 15:56:58 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/en/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>2024 06 25 Highlight of Calculus</title>
-      <link>http://localhost:1313/en/2024/06/25/2024-06-25-highlight-of-calculus/</link>
+      <title>Learning From Markdown</title>
+      <link>http://localhost:1313/en/2024/07/05/learning-from-markdown/</link>
+      <pubDate>Fri, 05 Jul 2024 15:56:58 +0800</pubDate>
+      <guid>http://localhost:1313/en/2024/07/05/learning-from-markdown/</guid>
+      <description>When I was creating my own website, I learned my very first programming language: Markdown&#xD;.&#xA;The link Above is an official guidance for markdown, though I haven&amp;rsquo;t read it entirely because I only focused on the questions I &amp;rsquo;ve met or I would have probably. In fact, most of my knowledge learned from the blog of Hongtao Hao&#xD;who was a student majored in journalism and communication then trasfered to computation science.</description>
+    </item>
+    <item>
+      <title>Machine Learning</title>
+      <link>http://localhost:1313/en/2024/07/05/machine-learning/</link>
+      <pubDate>Fri, 05 Jul 2024 15:44:20 +0800</pubDate>
+      <guid>http://localhost:1313/en/2024/07/05/machine-learning/</guid>
+      <description>Machine Learning from 0 to 1 ![Artificial Intelligence](https://github.com/luweiagi/machine-learning-notes/raw/master/docs/perface/machine-learning-perface/pic/AI_chasm.jpg)&#xD;Machine Learning is the core of the artificial interlligence.</description>
+    </item>
+    <item>
+      <title>Highlight of Calculus</title>
+      <link>http://localhost:1313/en/2024/06/25/highlight-of-calculus/</link>
       <pubDate>Tue, 25 Jun 2024 11:32:25 +0800</pubDate>
-      <guid>http://localhost:1313/en/2024/06/25/2024-06-25-highlight-of-calculus/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Markdown Testing</title>
-      <link>http://localhost:1313/en/2021/01/07/second-post/</link>
-      <pubDate>Thu, 07 Jan 2021 13:37:57 -0500</pubDate>
-      <guid>http://localhost:1313/en/2021/01/07/second-post/</guid>
-      <description>H1 H2 H3 H4 H5 H6 List Water Water Water Water Water Water Water Water Water Water Water Water Table Water Water Water Water Water Water Water Water1 Water Water Water Water Quotes What I cannot create, I do not understand2. — Richard Feynman&#xA;Math For example,&#xA;$1 + 1 = 3$&#xA;You can add Tags &amp;amp; References:&#xA;$$p(x) = \frac{1}{\sigma \sqrt{2 \pi}} exp \left(-\frac{1}{2}\left[\frac{x-\mu}{\sigma}\right]^2\right)\tag{1.1}\label{eq1.1}$$&#xA;Aligning equations3 are also possible,</description>
-    </item>
-    <item>
-      <title>The Road Not Taken</title>
-      <link>http://localhost:1313/en/1915/01/01/road-not-taken/</link>
-      <pubDate>Fri, 01 Jan 1915 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/en/1915/01/01/road-not-taken/</guid>
-      <description>Two roads diverged in a yellow wood,&#xA;And sorry I could not travel both&#xA;And be one traveler, long I stood&#xA;And looked down one as far as I could&#xA;To where it bent in the undergrowth;&#xA;Then took the other, as just as fair,&#xA;And having perhaps the better claim,&#xA;Because it was grassy and wanted wear;&#xA;Though as for that the passing there&#xA;Had worn them really about the same,</description>
+      <guid>http://localhost:1313/en/2024/06/25/highlight-of-calculus/</guid>
+      <description>Highlight of Calculus These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang.&#xA;Overview Calculus deals with the relationships between functions and encompasses both integration and differential calculus. These two types of calculus operate in opposite directions.&#xA;Differential: Suppose we know the distance and time. To determine the speed, we can use differential calculus. Intergration: Integration is in the opposite direction. An example of integration is finding the distance function (function 2) when the speed (function 1) increases at a constant rate.</description>
     </item>
   </channel>
 </rss>
