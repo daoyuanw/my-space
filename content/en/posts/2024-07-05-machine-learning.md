@@ -12,8 +12,6 @@ toc: false
 Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.[^1]
 [^1]:Authur Samuel,1959.
 
----
-
 The main types of machine learning are **supervised learning** and **unsupervised learning**. 
 
 **Supervised Learning** learns from being given “right ansers” has been used most widely in real-world applications including *spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection*. The two major algorithms in supervised learning are **regression** and **classification**.
