@@ -20,21 +20,21 @@
       <link>http://localhost:1313/en/2024/07/05/machine-learning/</link>
       <pubDate>Fri, 05 Jul 2024 15:44:20 +0800</pubDate>
       <guid>http://localhost:1313/en/2024/07/05/machine-learning/</guid>
-      <description>Machine Learning from 0 to 1 ![Artificial Intelligence](https://github.com/luweiagi/machine-learning-notes/raw/master/docs/perface/machine-learning-perface/pic/AI_chasm.jpg)&#xD;Machine Learning is the subfield of the artificial interlligence.</description>
+      <description>Machine Learning from 0 to 1 Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.1&#xA;The main types of machine learning are supervised learning and unsupervised learning.&#xA;Supervised Learning learns from being given “right ansers” has been used most widely in real-world applications including spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection. The two major algorithms in supervised learning are regression and classification.</description>
     </item>
     <item>
       <title>Computational Social Science</title>
       <link>http://localhost:1313/cn/2024/06/27/computational-social-science/</link>
       <pubDate>Thu, 27 Jun 2024 14:15:18 +0800</pubDate>
       <guid>http://localhost:1313/cn/2024/06/27/computational-social-science/</guid>
-      <description>接触计算传播学始于2023年了解香港学校，读potential advisor的论文。港校做CSS的老师有港大的King-Fa Wu&#xD;，中大的Liang Hai&#xD;以及内地最知名的Zhu Jianhua&#xD;。中大的Computational Social Science是[单独申请的项目]（https://pg.com.cuhk.edu.hk/phdcss/）。&#xA;计算传播学，顾名思义，即用计算的方法研究传播学，传播学属是社会科学的分支，所以它当然是计算社会科学的一支。浏览MIT Media Lab&#xD;时，才知道计算社会科学源于这里，一所以建模解决问题著称的地表最强理工院校。创始人Alex &amp;lsquo;Sandy&amp;rsquo; Pentland&#xD;被福布斯评为最强的7位数据科学家&#xD;之一。 他和学生于2009年发表的一篇文章&#xD;列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的artificial bee colony算法如何应用于提高组织的创意产出。 注意ABC算法区别于bee algorithm，尽管两者都用于解决优化问题。</description>
+      <description>接触计算传播学始于2023年了解香港学校，读potential advisor的论文。港校做CSS的老师有港大的King-wa Fu&#xD;，中大的Liang Hai&#xD;以及内地最知名的Zhu Jianhua&#xD;。中大的Computational Social Science&#xD;是单独申请的项目。&#xA;计算传播学，顾名思义，即用计算的方法研究传播学，传播学是社会科学的分支，所以自然属于计算社会科学的一支。浏览MIT Media Lab&#xD;时，才知道这里是计算社会科学的发源地，一所以建模解决问题著称的理工强校。创始人Alex &amp;lsquo;Sandy&amp;rsquo; Pentland&#xD;被福布斯评为最强的7位数据科学家&#xD;之一。 他和学生于2009年发表的一篇文章&#xD;列举了网络在社会中的各种应用场景以及如何应用计算方法研究社会科学中的问题，如通过记录和分析儿童的头两年生活得出语言的习得模式、通过电子邮件验证群组互动模式等。印象最为深刻的是受生物启发的Artificial Bee Colony算法如何应用于提高组织的创意产出。&#xA;注意ABC(Artifical Bee Colony)算法区别于bee algorithm，尽管两者都用于解决优化问题。</description>
     </item>
     <item>
       <title>信息过载与断舍离</title>
       <link>http://localhost:1313/cn/2024/06/25/%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E4%B8%8E%E6%96%AD%E8%88%8D%E7%A6%BB/</link>
       <pubDate>Tue, 25 Jun 2024 11:47:18 +0800</pubDate>
       <guid>http://localhost:1313/cn/2024/06/25/%E4%BF%A1%E6%81%AF%E8%BF%87%E8%BD%BD%E4%B8%8E%E6%96%AD%E8%88%8D%E7%A6%BB/</guid>
-      <description>信息过载这个词，是从新传考研过程中学到的。6年前只知其意，却并无深刻感受，直到今年，打开尘封已久的微博、微信、小红书、豆瓣收藏夹，里头还躺着我高中阶段收藏的如何写出满分作文、考研专业课的各种帖子。教育的滞后性在这一刻尽情凸显，原来学新传并没有提高多少我的媒介素养。看着收藏夹里滑不完的帖子，我开始产生了信息倦怠，就像消化不良的人失去了食欲。停止流连于社交媒体的首页，我开始思考怎么来消化这些古董。&#xA;直到有天我在朋友圈看到一位朋友刷屏式地分享各路帖子，心生好奇：他不仅有繁重的博士论文要做，还在运营自己的自媒体账号，分享的这么多的信息能看得过来吗？询问后果然大多是碍于人情转发的信息，他对信息有严格的选择机制：读完有用的信息做笔记，待读的信息发朋友圈仅自己可见读完即删，不得不发但不读的信息直接分享。&#xA;我开始回忆自己的社交媒体使用习惯，收藏的帖子基本都是看了标题可能有用但没耐心看完的，假装mark了等于看了。实际上，看了没应用也不见得有用。于是我把收藏夹刷到底，判断这些旧信息对现阶段的我是否有用，是则设法读完，整理为某类型的笔记，否则直接删掉。&#xA;整理过程中，我发现自己的收藏信息类型无外乎：美妆、英语学习、考研专业课、自我提升（读书、运动），但从我收藏的第一条美妆信息以来已经过了8年，我仍然没有形成化妆习惯，买过的两瓶粉底液都过了保质期，读书运动也收获甚微，至于四六级、考研早已是过去时了。这些陈旧的信息提醒着我社交媒体上使用的虚假满足，以及对自己全能全知、全面提升的幻想是造成拖延的本质。一个阶段专注一件事，手上有一件事就去完成一件事，放到收藏夹里的东西越少越好，越是放得久，你甚至都不会记得还有这么一回事，拾起来谈何容易。&#xA;手机、平板、电脑取代了笔记本，构建了我们的个人图书馆、工作仓库，图书馆需要盘点、分类检索，工作仓库需要定期清理，智能终端也需要清理内存，云端空间又何尝不需要清洁整理呢？结束被动的缸中之脑（喂什么吃什么），转向主动汲取所需信息是实现信息自由的第一步。</description>
+      <description>信息过载这个词，是从新传考研过程中学到的。6年前只知其意，却并无深刻感受，直到今年，打开尘封已久的微博、微信、小红书、豆瓣收藏夹，里头还躺着我高中阶段收藏的如何写出满分作文、考研专业课的各种帖子。教育的滞后性在这一刻尽情凸显，原来学新传并没有提高多少我的媒介素养。看着收藏夹里滑不完的帖子，我开始产生了信息倦怠，就像消化不良的人失去了食欲。停止流连于社交媒体的首页，我开始思考怎么来消化这些古董。&#xA;直到有天我在朋友圈看到一位朋友刷屏式地分享各路帖子，心生好奇：他不仅有繁重的博士论文要做，还在运营自己的自媒体账号，分享的这么多的信息能看得过来吗？询问后果然大多是碍于人情转发的信息，他对信息有严格的选择机制：读完有用的信息做笔记，待读的信息发朋友圈仅自己可见读完即删，不得不发但不读的信息直接分享。&#xA;我开始回忆自己的社交媒体使用习惯，收藏的帖子基本都是看了标题可能有用但没耐心看完的，假装mark了等于看了。实际上，看了没应用也不见得有用。于是我把收藏夹刷到底，判断这些旧信息对现阶段的我是否有用，是则设法读完，整理为某类型的笔记，否则直接删掉。&#xA;整理过程中，我发现自己的收藏信息类型无外乎：美妆、英语学习、考研专业课、自我提升（读书、运动），但距我收藏的第一条美妆信息已经过了8年，我仍然没有形成化妆习惯，买过的两瓶粉底液都过了期，读书运动也无所成，至于四六级、考研早已是过去时了。这些陈旧的信息提醒着我社交媒体使用的虚假满足，以及对自己全能全知、全面提升的幻想是造成拖延的本质。这八年如果一个阶段专注一件事，手上有一件事就去完成一件事，保持收藏夹里日日新，我想应该是另一番景象吧。做事情是需要一鼓作气的，再而衰、三而竭，放得太久，甚至都不会记得还有这么一回事，拾起来谈何容易。&#xA;手机、平板、电脑取代了笔记本，构建了我们的个人图书馆、工作仓库，图书馆的书需要分类检索，工作仓库需要清理盘点，云端空间又何尝不需要大扫除呢？结束被动的喂什么吃什么模式，减少噪音，转向主动汲取所需信息是实现信息自由的第一步。</description>
     </item>
     <item>
       <title>Highlight of Calculus</title>
