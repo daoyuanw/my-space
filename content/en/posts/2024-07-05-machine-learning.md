@@ -48,4 +48,5 @@ Both 3D plots and contour plots can visualize a cost function to observe if the 
 - *Anomaly detection* is for finding unusual data points like fraud detections.
 - *Demensionality reduction* compress data using fewer numbers.
 
+Multipile linear regression
 
