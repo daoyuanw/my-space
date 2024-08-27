@@ -1,0 +1,210 @@
+<script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script><a name="top"></a>
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Hugo-HT</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+
+    <link rel="stylesheet" href="/css/style.css" />
+    <link rel="stylesheet" href="/css/fonts.css" />
+    <link href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/styles/github.min.css" rel="stylesheet">
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/highlight.min.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/r.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/bash.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.15.10/languages/python.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega@5.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-lite@4.17.0"></script>
+<script src="https://cdn.jsdelivr.net/npm/vega-embed@6.12.2"></script>
+
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+
+            <link rel="icon" href="http://localhost:1313/media/hugo-logo.png">
+
+
+
+
+
+  </head>
+  
+  <body>
+    <div class="wrapper">
+      <header class="header">
+        <nav class="nav" >
+      <a href="/" class="nav-logo">
+        <img src="/media/hugo-logo.png"
+         width="50"
+         height="50"
+         alt="Hugo-ht">
+      </a>
+
+      <ul class="nav-links" >
+        
+        
+           <li><a href="/">Home</a></li>
+       
+           <li><a href="/en/about/">About</a></li>
+       
+           <li><a href="/en/posts/">Posts</a></li>
+       
+           <li><a href="/cn/posts/">中文</a></li>
+       
+       
+      </ul>
+</nav>
+      </header>
+
+<main class = "content" role="main">
+<div style="text-align: center">
+
+<h1>Machine Learning for beginners</h1>
+
+<p>Daoyuan 
+ / 2024-07-05 </p>
+
+<hr/>
+</div>
+
+<span class="article-toolbar">
+  
+  
+  
+  
+  
+  
+  
+  <a href='https://github.com/dawnlim1/my-space/edit/main/content/en%5cposts%5c2024-07-05-machine-learning.md'style="font-size: 24px; color: black;" target="_blank"><i class="fa fa-edit" aria-hidden="true" title="Suggest an edit of this page"></i>
+  </a>
+  
+  
+  
+</span>
+
+
+
+<div class="body-text list-text">
+<p>Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>The main types of machine learning are <strong>supervised learning</strong> and <strong>unsupervised learning</strong>.</p>
+<h1 id="supervised-learning">Supervised Learning<a href="#supervised-learning" class="header-anchor" ariaLabel="Anchor"> # </a></h1>
+<p><strong>Supervised Learning</strong> learns from being given “right answers” has been used most widely in real-world applications including <em>spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection</em>. The two major algorithms in supervised learning are <strong>regression</strong> and <strong>classification</strong>.</p>
+<h2 id="regression">Regression<a href="#regression" class="header-anchor" ariaLabel="Anchor"> # </a></h2>
+<p><strong>Regression</strong> predict a number infinitely many possible outputs, such as inferring the price of a house from a given housing price dataset. The algorithm used here is a typical type of <em>Linear Regression</em>. The terminology of the dataset should <em>trainning set</em>, where x represents the input variable and y represents the output variable.</p>
+<p>Here is a summary of some of the notation you will encounter.</p>
+<p>|General <img width=70/> <br />  Notation  <img width=70/> | Description<img width=350/>| Python (if applicable) |
+|: &mdash;&mdash;&mdash;&mdash;|: &mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;&mdash;||
+| $a$ | scalar, non bold                                                      ||
+| $\mathbf{a}$ | vector, bold                                                      ||
+| <strong>Regression</strong> |         |    |     |
+|  $\mathbf{x}$ | Training Example feature values (in this lab - Size (1000 sqft))  | <code>x_train</code> |<br>
+|  $\mathbf{y}$  | Training Example  targets (in this lab Price (1000s of dollars))  | <code>y_train</code>
+|  $x^{(i)}$, $y^{(i)}$ | $i_{th}$Training Example | <code>x_i</code>, <code>y_i</code>|
+| m | Number of training examples | <code>m</code>|
+|  $w$  |  parameter: weight                                 | <code>w</code>    |
+|  $b$           |  parameter: bias                                           | <code>b</code>    |<br>
+| $f_{w,b}(x^{(i)})$ | The result of the model evaluation at $x^{(i)}$ parameterized by $w,b$: $f_{w,b}(x^{(i)}) = wx^{(i)}+b$  | <code>f_wb</code> |</p>
+<h2 id="cost-function">Cost Function<a href="#cost-function" class="header-anchor" ariaLabel="Anchor"> # </a></h2>
+<ul>
+<li>
+<p><strong>Cost Function</strong>  provides a measure of how well your predictions match your training data. The equation for cost with one variable is:$$J(w,b) = \frac{1}{2m} \sum\limits_{i = 0}^{m-1} (f_{w,b}(x^{(i)}) - y^{(i)})^2 \tag{1}$$. If the $(f_{w,b}(x^{(i)}) - y^{(i)})^2 $ term will be zero, then the cost is minimized, indicating that the best parameters fit the model well.</p>
+</li>
+<li>
+<p><strong>Visulization of Cost Function</strong>
+Both 3D plots and contour plots can visualize a cost function to observe if the corresponding parameters fit the data well. To automate the process of optimizing w and b, we should use <strong>gradient descent</strong>.</p>
+</li>
+</ul>
+<p>-<strong>gradient descent</strong></p>
+<ul>
+<li><strong>Classification</strong> predict categories and small finite limited numbers.</li>
+</ul>
+<p><strong>Unsupervised Learning</strong> find something interesting in unlabeled data. The data comes with input x, but without labels y.</p>
+<ul>
+<li><em>Clustering</em> is used to group similar data points like google news.</li>
+<li><em>Anomaly detection</em> is for finding unusual data points like fraud detections.</li>
+<li><em>Demensionality reduction</em> compress data using fewer numbers.</li>
+</ul>
+<p>Multipile linear regression</p>
+<div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>Authur Samuel,1959.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
+
+
+<p style="color:#777;">Last modified on 2024-07-05</p>
+</div>
+<a href="#top"><i class="fa fa-chevron-up" style="font-size: 30px; color: black;"></i></a>
+
+</main>
+
+<footer class="footer">
+  <div class="content">
+
+<script src="https://giscus.app/client.js"
+        data-repo="dawnlim1/my-space"
+        data-repo-id="R_kgDOMNt48A"
+        data-category="Announcements"
+        data-category-id="DIC_kwDOMNt48M4CgWw2"
+        data-mapping="pathname"
+        data-strict="0"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-input-position="top"
+        data-theme="preferred_color_scheme"
+        data-lang="zh-CN"
+        data-loading="lazy"
+        crossorigin="anonymous"
+        async>
+</script>
+</br>
+ 
+</div>
+  <script type="text/javascript" src="/js/math-code.js"></script>
+<script async src="//mathjax.rstudio.com/latest/MathJax.js?config=TeX-MML-AM_CHTML"></script>
+<script type="text/javascript" src="/js/center-img.js"></script>
+
+
+
+     <ul class="footer-links">
+      
+       
+       
+       
+       <li><a href="/en/posts/index.xml" type="application/rss+xml" title="RSS feed">
+       Subscribe </a>
+       </li>
+       
+       
+       <li>
+       
+        <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/" target="_blank">
+       
+        License
+        <i class="fa fa-cc" aria-hidden="true" title="Attribution-NonCommercial-ShareAlike 4.0 International"></i> 
+        </a>
+       </li>
+       
+     </ul>
+     <div class="copyright-text">
+            
+            ©
+            
+            Daoyuan
+            
+            2024
+            
+     </div>
+
+</footer>
+
+
+
+
+

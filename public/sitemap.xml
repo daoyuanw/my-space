@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/en/2024/08/27/2024-08-27-jupternotebook/</loc>
+    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/en/</loc>
-    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
+    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/posts/</loc>
-    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
+    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
-    <lastmod>2024-07-05T15:56:58+08:00</lastmod>
+    <lastmod>2024-08-27T18:19:26+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/en/2024/07/05/learning-from-markdown/</loc>
     <lastmod>2024-07-05T15:56:58+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/en/2024/07/05/machine-learning/</loc>
+    <loc>http://localhost:1313/en/2024/07/05/machine-learning-for-beginners/</loc>
     <lastmod>2024-07-05T15:44:20+08:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/cn/2024/06/27/computational-social-science/</loc>

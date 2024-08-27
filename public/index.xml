@@ -6,8 +6,15 @@
     <description>Recent content in Home on Hugo-HT</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 05 Jul 2024 15:56:58 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Aug 2024 18:19:26 +0800</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2024 08 27 Jupternotebook</title>
+      <link>http://localhost:1313/en/2024/08/27/2024-08-27-jupternotebook/</link>
+      <pubDate>Tue, 27 Aug 2024 18:19:26 +0800</pubDate>
+      <guid>http://localhost:1313/en/2024/08/27/2024-08-27-jupternotebook/</guid>
+      <description></description>
+    </item>
     <item>
       <title>Learning From Markdown</title>
       <link>http://localhost:1313/en/2024/07/05/learning-from-markdown/</link>
@@ -16,11 +23,11 @@
       <description>When I was creating my own website, I learned my very first programming language: Markdown&#xD;.&#xA;The link above is an official guidance for markdown, though I haven&amp;rsquo;t read it entirely because I only focused on the questions I &amp;rsquo;ve met or I would have probably. In fact, most of my knowledge learned from the blog of Hongtao Hao&#xD;who was a student majored in journalism and communication then trasfered to computation science.</description>
     </item>
     <item>
-      <title>Machine Learning</title>
-      <link>http://localhost:1313/en/2024/07/05/machine-learning/</link>
+      <title>Machine Learning for beginners</title>
+      <link>http://localhost:1313/en/2024/07/05/machine-learning-for-beginners/</link>
       <pubDate>Fri, 05 Jul 2024 15:44:20 +0800</pubDate>
-      <guid>http://localhost:1313/en/2024/07/05/machine-learning/</guid>
-      <description>Machine Learning from 0 to 1 Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.1&#xA;The main types of machine learning are supervised learning and unsupervised learning.&#xA;Supervised Learning learns from being given “right ansers” has been used most widely in real-world applications including spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection. The two major algorithms in supervised learning are regression and classification.</description>
+      <guid>http://localhost:1313/en/2024/07/05/machine-learning-for-beginners/</guid>
+      <description>Machine Learning is the subfield of the artificial interlligence that give computers the ability to learn without being explicityly programmed.1&#xA;The main types of machine learning are supervised learning and unsupervised learning.&#xA;Supervised Learning Supervised Learning learns from being given “right answers” has been used most widely in real-world applications including spam filtering, speech recoginition, machine translation, online adversising, self-driving cars and visual inspection. The two major algorithms in supervised learning are regression and classification.</description>
     </item>
     <item>
       <title>Computational Social Science</title>
