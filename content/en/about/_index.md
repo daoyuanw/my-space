@@ -6,7 +6,6 @@ type : list-single
 ## Daoyuan Wu
 
 Email: wudy19@stu.edu.cn<br>
-URL: https://my-space-daoyuan.vercel.app/
 
 Born: August, 1998,Yan'an, Shaan'Xi Province<br>
 Nationality: China
@@ -29,6 +28,6 @@ Nationality: China
 #### Journal articles
 Zhang,H.,Wu,D.,&Ma,X.(2020)"Media Presentation Risk and Prevention Based on Food Supply Chain".*Journal of Intelligence.39(10),7.* 
 #### Books chapter
-Wu, Y., Guo, Y., Wu, D., Song, Y., Pham, D. T., & Tan, W. (2023) Bees Algorithm with Adaptive Operator Selection Mechanism for Generalised Multi-dimensional Multi-choice Knapsack Problem. Bees Algorithm and its Applications
+Wu, Y., Guo, Y., Wu, D., Song, Y., Pham, D. T., & Tan, W. (2023) Bees Algorithm with Adaptive Operator Selection Mechanism for Generalised Multi-dimensional Multi-choice Knapsack Problem. *Bees Algorithm and its Applications.*
 
 To be Continued...
