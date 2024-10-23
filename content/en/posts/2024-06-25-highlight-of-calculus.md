@@ -8,7 +8,8 @@ toc: false
 ---
 
 # Highlight of Calculus
-These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang.
+These notes capture the key highlights and concepts from the renowned MIT calculus course taught by Professor Gilbert Strang. I wrote it mainly out of the motivation to active recall the knowledge I've learnt. If it could also help someone to understand the calculus, that would be much greater!
+Faymen said the expert could teach the conception so simple that even a child can understand without problmes. If you find there are something unclear, confusing or mistakes. Please leave me the comment below or contact me via email. 
 ## Overview
 **Calculus** deals with the relationships between functions and encompasses both integration and differential calculus. These two types of calculus operate in opposite directions.
 
